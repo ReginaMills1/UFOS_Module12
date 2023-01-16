@@ -19,7 +19,8 @@ Note that spelling is important here. Dates should be entered using the (M/DD/YY
 
 The filter tool allows for multiple entries, see Figure 4 for spheres observed on 1/10/2010.
 
-![Figure 4](/resources/Figure4_MultipleFilters.png "Figure 4: Multiple Filters")
+![image](https://user-images.githubusercontent.com/112450151/212766208-e452c9b6-eb34-45bf-ae95-0992426e559f.png)
+
 ## Summary
 Although this tool is interactive and the webpage is visually appealing, there are some drawbacks to this website. The filters are finicky with regards to spelling, capitalization, and date entry. End user errors will result in no data displayed.
 
